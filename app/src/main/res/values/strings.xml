@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="pick_image_from_gallery">Pick Image from Gallery</string>
+    <string name="send">Send</string>
+    <string name="as">Send</string>
+    <string name="todo">TODO</string>
+</resources>
